@@ -1,0 +1,4 @@
+/nbproject/private/
+# Added by automation
+.env
+.env.*
