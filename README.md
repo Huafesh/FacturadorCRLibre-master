@@ -1,15 +1,30 @@
-# FacturadorCRLibre-master
+# 🧾 Facturador Electrónico Costa Rica Libre
 
-Este repositorio contiene el código del proyecto **FacturadorCRLibre-master**, clasificado como **Aplicación Frontend (Sitio Web estático)**.
+Un portal web frontend diseñado para la gestión y administración de comprobantes electrónicos, clientes e inventario. Está estructurado y configurado siguiendo los lineamientos de facturación del Ministerio de Hacienda de Costa Rica.
 
-## Tecnologías Utilizadas
+---
 
-- HTML5
-- CSS3 / JavaScript
+## 🚀 Características Principales
+
+* Vistas completas para clientes, consulta de comprobantes, inventario y facturación.
+* Panel de administración adaptativo y responsivo utilizando HTML estructurado.
+* Formularios organizados y listos para interactuar con APIs de firma digital y emisión fiscal.
+
+---
+
+## 🛠️ Tecnologías Utilizadas
+
+* HTML5
+* CSS3 / Bootstrap
+* JavaScript (Gestión de Formularios)
+* JSON Metadata
+
+---
 
 ### Ejecución
 
-1. Abre el archivo `index.html` directamente en cualquier navegador web, o utiliza una extensión como *Live Server* en tu editor de código para ejecutarlo de forma local.
+1. Abre `index.html` en tu navegador para ver la interfaz del panel administrativo.
+2. Este proyecto sirve como plantilla frontend para la integración de APIs de facturación electrónica.
 
 ---
-*Generado automáticamente para la organización y catalogación de proyectos.*
+*Este repositorio ha sido configurado y catalogado automáticamente.*
